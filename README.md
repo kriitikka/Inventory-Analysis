@@ -1,4 +1,4 @@
-# Inventory-Analysis
+# Inventory-Analysis Dashboard
 
 This Power BI project analyzes AdventureWorks manufacturing data, focusing on inventory management, production performance, and waste cost analysis. The dashboard enables stakeholders to monitor KPIs, identify inefficiencies, and support data-driven decision-making.
 
